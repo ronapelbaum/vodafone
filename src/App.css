@@ -1,0 +1,34 @@
+/* .App {
+    position: relative;
+}
+
+.phone-details {
+    position: absolute;
+    width: 40%;
+    right: 0;
+}
+
+.phone-images img {
+    position: absolute;
+    width: 40%;
+    left: 0;
+    padding: 2rem;
+} */
+
+.App {
+    padding: 2rem
+}
+
+.phone-details {
+    float: right;
+    width: 50%;
+}
+
+.phone-images {
+    float: left;
+    text-align: center
+}
+
+.phone-images img {
+    width: 50%
+}
