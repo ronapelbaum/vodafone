@@ -3,6 +3,9 @@
 
 In the project directory, you can run:
 
+### `npm install`
+This will install the project dependencies
+
 ### `npm start`
 ### `npm run sjs`
 (`npm run sjs` Serves the ./data/phones.json file through https://localhost:1234/data)
